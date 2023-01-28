@@ -1,0 +1,4 @@
+application:
+  properties:
+    name1: a
+    name2: a
